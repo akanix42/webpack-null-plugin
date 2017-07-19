@@ -1,0 +1,13 @@
+{
+  "name": "webpack-null-plugin",
+  "version": "0.0.3",
+  "description": "Empty webpack plugin",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nathantreid/webpack-null-plugin.git"
+  },
+  "main": "index.js",
+  "keywords": ["webpack", "null", "empty", "plugin"],
+  "author": "Nathan Reid <nathan-code@nathantreid.com>",
+  "license": "ISC"
+}
