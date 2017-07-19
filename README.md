@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-npm i -S webpack-null-plugin
+npm i -D webpack-null-plugin
 ```
 
 ## Usage
